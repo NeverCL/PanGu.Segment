@@ -1,0 +1,7 @@
+最新字典文件下载位置
+http://pangusegment.codeplex.com/releases/view/47411
+默认字典位置为 ..\Dictionaries 你可以通过设置PanGu.xml 文件来修改字典的位置
+Demo.exe 分词演示程序
+DictManage.exe 字典管理程序
+PanGu.xml 分词配置文件
+PanGu.HighLight.dll 高亮组件
